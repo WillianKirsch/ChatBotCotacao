@@ -1,0 +1,15 @@
+C:\Users\Willian\Documents\Visual Studio 2019\Projects\ChatBotCotacao\CoreBotCotacao\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Willian\Documents\Visual Studio 2019\Projects\ChatBotCotacao\CoreBotCotacao\bin\Debug\netcoreapp2.1\CoreBotCotacao.deps.json
+C:\Users\Willian\Documents\Visual Studio 2019\Projects\ChatBotCotacao\CoreBotCotacao\bin\Debug\netcoreapp2.1\CoreBotCotacao.runtimeconfig.json
+C:\Users\Willian\Documents\Visual Studio 2019\Projects\ChatBotCotacao\CoreBotCotacao\bin\Debug\netcoreapp2.1\CoreBotCotacao.runtimeconfig.dev.json
+C:\Users\Willian\Documents\Visual Studio 2019\Projects\ChatBotCotacao\CoreBotCotacao\bin\Debug\netcoreapp2.1\CoreBotCotacao.dll
+C:\Users\Willian\Documents\Visual Studio 2019\Projects\ChatBotCotacao\CoreBotCotacao\bin\Debug\netcoreapp2.1\CoreBotCotacao.pdb
+C:\Users\Willian\Documents\Visual Studio 2019\Projects\ChatBotCotacao\CoreBotCotacao\obj\Debug\netcoreapp2.1\CoreBotCotacao.csprojAssemblyReference.cache
+C:\Users\Willian\Documents\Visual Studio 2019\Projects\ChatBotCotacao\CoreBotCotacao\obj\Debug\netcoreapp2.1\CoreBotCotacao.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Documents\Visual Studio 2019\Projects\ChatBotCotacao\CoreBotCotacao\obj\Debug\netcoreapp2.1\CoreBotCotacao.RazorAssemblyInfo.cache
+C:\Users\Willian\Documents\Visual Studio 2019\Projects\ChatBotCotacao\CoreBotCotacao\obj\Debug\netcoreapp2.1\CoreBotCotacao.RazorAssemblyInfo.cs
+C:\Users\Willian\Documents\Visual Studio 2019\Projects\ChatBotCotacao\CoreBotCotacao\obj\Debug\netcoreapp2.1\CoreBotCotacao.AssemblyInfoInputs.cache
+C:\Users\Willian\Documents\Visual Studio 2019\Projects\ChatBotCotacao\CoreBotCotacao\obj\Debug\netcoreapp2.1\CoreBotCotacao.AssemblyInfo.cs
+C:\Users\Willian\Documents\Visual Studio 2019\Projects\ChatBotCotacao\CoreBotCotacao\obj\Debug\netcoreapp2.1\CoreBotCotacao.RazorTargetAssemblyInfo.cache
+C:\Users\Willian\Documents\Visual Studio 2019\Projects\ChatBotCotacao\CoreBotCotacao\obj\Debug\netcoreapp2.1\CoreBotCotacao.dll
+C:\Users\Willian\Documents\Visual Studio 2019\Projects\ChatBotCotacao\CoreBotCotacao\obj\Debug\netcoreapp2.1\CoreBotCotacao.pdb
